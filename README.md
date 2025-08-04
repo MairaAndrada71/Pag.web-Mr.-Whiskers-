@@ -1,2 +1,2 @@
 # Pag.web-Mr.-Whiskers-
-proyecto html
+Este es un pequeño proyecto de lo aprendido en HTML.
